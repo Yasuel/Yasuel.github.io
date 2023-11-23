@@ -1,0 +1,18 @@
+Bootstrap:
++nopea
++räätälöitävissä
++laaja yhteisö
++yleinen toimivuus
+-isot tiedostot raskaita mobiilissa
+-hankala oppia
+-geneerinen
+-koodia voi joutua päivittämään
+
+Tuomarit:
+Kirsi Kiireinen: Bs
+Ykä Yksilöllinen: ei Bs
+Piia Portfoliosivu: ehkä Bs
+Pete Perussiisti: Bs
+Minna Monimutkainensivu: ei Bs
+
+Hyvä joihinkin yksinkertaisiin perussivuihin, mutta jos haluaa hiemankaan erilaista, kannattaa käyttää alusta lähtien CSS-koodia.
